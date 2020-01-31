@@ -37,7 +37,7 @@ The default phpstan level is the lowest available, but we recommend you to updat
 PHPStan is not provided by our dependencies, because of the PHP compatibility from projects using this repository. We recommend you to install it globally on your environment:
 
 ```
-composer global require phpstan/phpstan-shim
+composer global require phpstan/phpstan
 ```
 
 ## Usage
